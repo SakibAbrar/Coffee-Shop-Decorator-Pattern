@@ -1,0 +1,17 @@
+#Don't Track content of this folders
+.idea/
+
+#Or these files
+CoffeeShop.iml
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.so
+
+
